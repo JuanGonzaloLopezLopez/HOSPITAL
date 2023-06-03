@@ -1,0 +1,6 @@
+group: Ubicación
+Ubicación = {Localidad, Estado, Ciudad, País, Codigo Ubicación
+'Tehuantepec', 'Oaxaca', 'Tehuantepec', 'México', 90182 
+'Guadalajara', 'Jalisco', 'Guadalajara', 'México', 90183 
+'Misantla', 'Veracruz', 'Misantla', 'México', 90184
+'Teziutlán', 'Puebla', 'Teziutlán', 'México', 90185}
