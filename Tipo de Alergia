@@ -1,0 +1,6 @@
+group = Tipo_Alergia
+Tipo_Alergia = { Codigo, Alergia
+001, 'Sin alegia'
+002, 'Penicilina'
+003, 'Sin alegia'
+004, 'Aspirina'}
