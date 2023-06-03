@@ -2,5 +2,5 @@ group = Doctores
 Doctores = {Cedula Profesional, Nombres, Apellido Paterno, Apellido Materno, Area, Turno
 1234567890, 'Angel Pablo', 'López', 'Guerrero', 'Medicina General', 'Mañana'
 9876543210, 'Daniela Stefannie',	'Pérez',	'Ramírez','Pediatría', 'Tarde'
-2468135790, 'Juan Carlos',	'Arrazola',	'Jimenez', 'Ginecología', 'Tarde'
+2468135790, 'Juan Carlos',	'Arrazola',	'Jimenez', 'Ginecología', 'Mañana'
 1357924680, 'Alisson',	'Gomez',	'Huesca', 'Cirugía Plástica', 'Noche'}
