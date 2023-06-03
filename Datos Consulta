@@ -1,0 +1,6 @@
+group = Datos_Consulta
+Datos_Consulta = { Codigo, altura, peso, Presion Arterial, temperatura
+001, 170,	70.5,	120/80, 	36.5°C
+002, 68.2,	130/85,	37.8°C
+003,	175,	75.0,	125/82,	36.9°C
+004,160,	63.7,	118/78,	37.2°C}
