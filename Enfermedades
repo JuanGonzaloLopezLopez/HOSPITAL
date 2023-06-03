@@ -1,0 +1,6 @@
+group = Enfermedades
+Enfermedades = { Codigo, Enfermedad
+001, 'Golpe'
+002, 'Resfriado Común'
+003, 'Infeccion de garganta'
+004, 'Hipertensión'}
