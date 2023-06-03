@@ -1,0 +1,6 @@
+group = Medicamentos
+Medicamentos = {Codigo, Medicinas
+001,	'Paracetamol'
+002,	'Ibuprofeno y Jarabe'
+003,	'Ampicilina'
+004,	'Losartán'}
