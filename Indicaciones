@@ -1,0 +1,6 @@
+group = Indicaciones
+Indicaciones = {Codigo, Instrucciones
+001,	'Descansar y tomar analgésicos'
+002,	'Tomar líquidos y reposo en cama'
+003,	'Tomar analgésicos y antibioticos'
+004,	'Realizar ejercicio moderado y dieta baja en sal'} 
