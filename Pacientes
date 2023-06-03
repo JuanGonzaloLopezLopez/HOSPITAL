@@ -1,6 +1,6 @@
 group = Pacientes
 Pacientes = {CURP, Nombres, Apellido Paterno, Apellido Materno, Edad, Seguro Social, Sexo, Ubicación
-LOAJ910625HMZXTS00, 'Juan Antonio', 'López', 'Jiménez', 32, 1234567890, 'Masculino'
-GARM851224MZXXRD04, 'María Guadalupe',	'García',	'Ramírez',	37, 9876543210, 'Femenino'	
-PERJ960805HMSXYZ09, 'Jorge Alberto',	'Pérez',	'Rodríguez',	25,	2468135790,	'Masculino'
-SANC890312HMNBRZ02,	'Carolina Isabel',	'Sánchez',	'Bravo',	31,	1357924680,	'Femenino'}
+LOAJ910625HMZXTS00, 'Juan Antonio', 'López', 'Jiménez', 32, 1234567890, 'Masculino', 90182 
+GARM851224MZXXRD04, 'María Guadalupe',	'García',	'Ramírez',	37, 9876543210, 'Femenino',	90183 
+PERJ960805HMSXYZ09, 'Jorge Alberto',	'Pérez',	'Rodríguez',	25,	2468135790,	'Masculino', 90184
+SANC890312HMNBRZ02,	'Carolina Isabel',	'Sánchez',	'Bravo',	31,	1357924680,	'Femenino', 90185}
