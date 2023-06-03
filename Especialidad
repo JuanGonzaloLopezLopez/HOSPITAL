@@ -1,0 +1,6 @@
+group = Especialidad
+Especialidad = { Cedula Profesional, Estudios
+1243557890, 'Medico General'	
+9876543210, 'Medico Pedriata'
+2468135790, 'Medico Guinecologo'
+1357924680, 'Medico Cirujano'}
