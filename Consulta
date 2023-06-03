@@ -1,0 +1,6 @@
+group = Consulta
+Consulta = {Codigo, Síntomas, Altura, Peso, Presion Arterial, Temperatura, Cedula Profesional, CURP
+001,	'Dolor de cabeza',	170,	70.5,	120/80, 	36.5°C,	1243557890,	LOAJ910625HMZXTS00
+002,	'Fiebre y tos',	165,	68.2,	130/85,	37.8°C,	9876543210,	GARM851224MZXXRD04
+003,	'Dolor de garganta',	175,	75.0,	125/82,	36.9°C,	2468135790,	PERJ960805HMSXYZ09
+004,	'Fatiga y mareos',	160,	63.7,	118/78,	37.2°C,	1357924680,	SANC890312HMNBRZ02}
