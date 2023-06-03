@@ -1,0 +1,6 @@
+group = Sintomas_Pacientes
+Sintomas_Pacientes = { Codigo, Síntomas
+001,	'Dolor de cabeza'
+002,	'Fiebre y tos'
+003,	'Dolor de garganta'
+004,	'Fatiga y mareos'}
